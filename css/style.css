@@ -1,0 +1,40 @@
+html
+{
+    background-color:#C2DEDC;
+}  
+
+* 
+{
+     text-align:: center;
+}
+
+.info-title
+{
+    font-family: 'Courgette', cursive;
+    background-color:#ECE5C7;
+}
+
+img
+{
+    border: 5px solid #4F709C;
+    height: 200px;
+    width: 180px;
+}
+
+.content
+{
+    font-family: 'Russo One', sans-serif;
+    background-color: #CDC2AE;
+    color: #116A7B;
+}
+
+p
+{
+    color: #116A7B;
+}
+
+li
+{
+  color: #116A7B;
+}
+
